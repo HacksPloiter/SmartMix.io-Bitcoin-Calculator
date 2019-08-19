@@ -9,5 +9,5 @@ View the live version of this repo here
 View my profile  
 -> https://codehack3r.github.io 
 
-Visit SmartMix.io
+Visit SmartMix.io 
 -> https://smartmix.io
