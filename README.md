@@ -4,10 +4,10 @@ This is a very helpful web based tool to calculate the required amount of Bitcoi
 
 
 View the live version of this repo here  
--> https://codehack3r.github.io/SmartMix.io-Bitcoin-Calculator/
+-> https://hacksploiter.github.io/SmartMix.io-Bitcoin-Calculator/
 
 View my profile  
--> https://codehack3r.github.io 
+-> https://hacksploiter.github.io
 
 Visit SmartMix.io 
 -> https://smartmix.io
